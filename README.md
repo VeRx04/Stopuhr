@@ -32,12 +32,12 @@ Dieses Projekt ist eine einfache Desktopanwendung, die als Stopuhr fungiert. Es 
 
 3. **Projekt kompilieren**
     ```bash
-   javac -d bin src/*.java
+   javac -d bin src/**/*.java
    ```
 
 4. **Anwendung starten**
      ```bash
-   java -cp bin Main
+   java -cp bin main.Main
    ```
      
 ## Technologien
