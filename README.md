@@ -5,6 +5,7 @@ Eine einfache und benutzerfreundliche Stopuhr, welche auf dem PC geöffnet und g
 ## Inhalt
 
 - [Über das Projekt](#über-das-projekt)
+- [Anlass](#anlass)
 - [Funktionen](#funktionen)
 - [Installation](#installation)
 - [Technologien](#technologien)
@@ -12,6 +13,10 @@ Eine einfache und benutzerfreundliche Stopuhr, welche auf dem PC geöffnet und g
 ## Über das Projekt
 
 Dieses Projekt ist eine einfache Desktopanwendung, die als Stopuhr fungiert. Es wurde entwickelt, um den Alltag zu erleichtern. 
+
+## Anlass 
+
+Die Intention hinter dieses Projektes lag bei dem Erweitern meiner Fertigkeiten im Rahmen meiner Freizeit. 
 
 ## Funktionen
 
