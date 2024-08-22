@@ -16,6 +16,6 @@ public class Frame extends JFrame {
 		pack();
 		setLocationRelativeTo(null);
 		setVisible(true);
-		setIconImage(new ImageIcon(getClass().getResource("/clock.png")).getImage());
+		setIconImage(new ImageIcon(getClass().getResource("/res/clock.png")).getImage());
 	}
 }
