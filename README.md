@@ -16,7 +16,7 @@ Dieses Projekt ist eine einfache Desktopanwendung, die als Stopuhr fungiert. Es 
 
 ## Anlass 
 
-Die Intention hinter dieses Projektes lag bei dem Erweitern meiner Fertigkeiten im Rahmen meiner Freizeit. 
+Die Intention hinter dieses Projektes lag bei dem Erweitern meiner Fertigkeiten des Umganges mit grafischen Benutzeroberflächen, Threads und Zeitzugriffen, im Rahmen meiner Freizeit. 
 
 ## Funktionen
 
